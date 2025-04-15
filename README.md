@@ -64,10 +64,10 @@ App-Lacatedral/
 - Dados de produtos e campos utilizados com permissão
 
 ## ✉️ Contato do Desenvolvedor
-**Ielris Marques**  
-📧 ielrisdeveloper@gmail.com  
-🌐 [marquesweb.com](https://marquesweb.com)
+**Saheed Adeyemi**  
+📧 michaelsaheed@gmail.com  
+🌐 
 
 ---
 
-> "Desenvolvido com carinho e dedicação para a comunidade de airsoft" - Ielris Marques
+> "Desenvolvido com carinho e dedicação para a comunidade de airsoft" - Saheed Adeyemi
